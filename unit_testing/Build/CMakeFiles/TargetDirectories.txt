@@ -1,0 +1,3 @@
+/home/shiv/demo/gtest/bowlinggame/unit_testing/Build/CMakeFiles/rebuild_cache.dir
+/home/shiv/demo/gtest/bowlinggame/unit_testing/Build/CMakeFiles/edit_cache.dir
+/home/shiv/demo/gtest/bowlinggame/unit_testing/Build/CMakeFiles/BowlingGameTest.dir
